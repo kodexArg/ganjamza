@@ -21,9 +21,7 @@
     }
   });
 
-  afterUpdate(() => {
-    console.log("afterUpdate is called!");
-  });
+
 </script>
 
 <Header />
